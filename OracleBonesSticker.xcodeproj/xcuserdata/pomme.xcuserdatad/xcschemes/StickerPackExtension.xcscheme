@@ -18,7 +18,7 @@
                BlueprintIdentifier = "B826B1231E2DE0F100C65909"
                BuildableName = "StickerPackExtension.appex"
                BlueprintName = "StickerPackExtension"
-               ReferencedContainer = "container:OracleSticker.xcodeproj">
+               ReferencedContainer = "container:OracleBonesSticker.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -30,9 +30,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "B826B11F1E2DE0F000C65909"
-               BuildableName = "OracleSticker.app"
-               BlueprintName = "OracleSticker"
-               ReferencedContainer = "container:OracleSticker.xcodeproj">
+               BuildableName = "OracleBonesSticker.app"
+               BlueprintName = "OracleBonesSticker"
+               ReferencedContainer = "container:OracleBonesSticker.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -50,7 +50,7 @@
             BlueprintIdentifier = "B826B1231E2DE0F100C65909"
             BuildableName = "StickerPackExtension.appex"
             BlueprintName = "StickerPackExtension"
-            ReferencedContainer = "container:OracleSticker.xcodeproj">
+            ReferencedContainer = "container:OracleBonesSticker.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B826B11F1E2DE0F000C65909"
-            BuildableName = "OracleSticker.app"
-            BlueprintName = "OracleSticker"
-            ReferencedContainer = "container:OracleSticker.xcodeproj">
+            BuildableName = "OracleBonesSticker.app"
+            BlueprintName = "OracleBonesSticker"
+            ReferencedContainer = "container:OracleBonesSticker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -92,9 +92,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "B826B11F1E2DE0F000C65909"
-            BuildableName = "OracleSticker.app"
-            BlueprintName = "OracleSticker"
-            ReferencedContainer = "container:OracleSticker.xcodeproj">
+            BuildableName = "OracleBonesSticker.app"
+            BlueprintName = "OracleBonesSticker"
+            ReferencedContainer = "container:OracleBonesSticker.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

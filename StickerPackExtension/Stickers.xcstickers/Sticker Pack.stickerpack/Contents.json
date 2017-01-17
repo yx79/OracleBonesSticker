@@ -1,4 +1,48 @@
 {
+  "stickers" : [
+    {
+      "filename" : "dance.sticker"
+    },
+    {
+      "filename" : "sun.sticker"
+    },
+    {
+      "filename" : "moon.sticker"
+    },
+    {
+      "filename" : "rain.sticker"
+    },
+    {
+      "filename" : "cloud.sticker"
+    },
+    {
+      "filename" : "chicken.sticker"
+    },
+    {
+      "filename" : "tiger.sticker"
+    },
+    {
+      "filename" : "dog.sticker"
+    },
+    {
+      "filename" : "monkey.sticker"
+    },
+    {
+      "filename" : "horse.sticker"
+    },
+    {
+      "filename" : "fish.sticker"
+    },
+    {
+      "filename" : "dragon.sticker"
+    },
+    {
+      "filename" : "pig.sticker"
+    },
+    {
+      "filename" : "deer.sticker"
+    }
+  ],
   "info" : {
     "version" : 1,
     "author" : "xcode"

@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:OracleSticker.xcodeproj">
+      location = "self:/Users/pomme/Documents/iOS/iMessage/OracleSticker/OracleBonesSticker.xcodeproj">
    </FileRef>
 </Workspace>
